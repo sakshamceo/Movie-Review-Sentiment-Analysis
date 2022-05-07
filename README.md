@@ -20,4 +20,4 @@ The dataset is taken from kaggle https://www.kaggle.com/c/sentiment-analysis-on-
 ### Algorithms used:
 1. Naive Bayes
 2. Decision Tree
-3. Random Forest
+
