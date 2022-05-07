@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/59284238/167260649-a7bc01fa-3f3e-4ffc-86f3-1e2fe8771615.png"  height="280"><img src="https://cdn-images-1.medium.com/max/361/0*ga5rNPmVYBsCm-lz."  height="280"><img src="https://user-images.githubusercontent.com/59284238/167260649-a7bc01fa-3f3e-4ffc-86f3-1e2fe8771615.png"  height="280">
-
+<img src="https://user-images.githubusercontent.com/59284238/167260649-a7bc01fa-3f3e-4ffc-86f3-1e2fe8771615.png"  height="280"><img src="https://cdn-images-1.medium.com/max/361/0*ga5rNPmVYBsCm-lz."  height="280">
 
 # Movie-Review-Sentiment-Analysis
 To classify the sentiment of sentences from the Rotten Tomatoes dataset. Labeled phrases on a scale of five values: negative, somewhat negative, neutral, somewhat  positive, positive and then predict the overall sentiment of the sentence using Naiive Bayes and Decision Tree Algorithms
